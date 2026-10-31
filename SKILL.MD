@@ -1,3 +1,8 @@
+---
+name: lu-skill
+description: ULTRA-DETAILED Rules for All Programming Languages and AI models.
+---
+
 # AGENTS.MD – **ULTRA-DETAILED** Rules for All Programming Languages
 *(Applies to ALL: C/C++, Python, JS/TS, Go, Rust, Java, Ruby, PHP, Swift, Kotlin, etc.)*
 
